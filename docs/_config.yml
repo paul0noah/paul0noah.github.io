@@ -28,7 +28,7 @@ url: "https://lovc.cs.uni-bonn.de/index.php/team/paul-roetzer/"
 github_username:  paul0noah
 
 # Build settings
-theme: jekyll-theme-yat
+remote_theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
